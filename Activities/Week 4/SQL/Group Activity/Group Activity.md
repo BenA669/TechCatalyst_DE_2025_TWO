@@ -32,8 +32,8 @@ You can use the following table for each type you are researching.
 
 | Field           | Description |
 | --------------- | ----------- |
-| Definition      |             |
-| Purpose         |             |
+| Definition      | External tables are tables used to query data in an external stage (S3, Google Cloud Storage, Azure) as if it was a table inside of Snowflake |
+| Purpose         | Query data from external stages (Read-Only) like file-leve meetadata, filenames, and version identifiers|
 | Key Difference  |             |
 | Common Use Case |             |
 | Syntax Example  |             |
